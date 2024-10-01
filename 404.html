@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='./index.html'" />
+    <meta http-equiv="refresh" content="0; url=./" />
+    <script>
+      // GitHub Pages에서 경로 문제가 발생하면 index.html로 리다이렉트
+      var pathname = window.location.pathname;
+      if (!pathname.endsWith("/")) {
+        window.location.replace(
+          window.location.origin + "/DEEPDIVE_Creating-a-shopping-mall-app-using-React/" + pathname
+        );
+      }
+    </script>
   </head>
-  <body>
-  </body>
+  <body></body>
 </html>
