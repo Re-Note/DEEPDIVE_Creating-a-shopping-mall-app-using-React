@@ -12,6 +12,8 @@
 
 ### [구현 결과 이미지]
 
+![사진](https://github.com/user-attachments/assets/23e68cee-c433-49ea-9616-b49d0643f030)
+
 ### [구현 결과 사이트 주소]
 
 https://re-note.github.io/DEEPDIVE_Creating-a-shopping-mall-app-using-React/
